@@ -3,7 +3,7 @@ name: Molecule Testes on Push
 "on":
   push:
     paths:
-      - 'collections/ansible_collections/infra/lab/roles/mysql/**'
+      - 'collections/ansible_collections/infra/lab/roles/nginx/**'
 
 jobs:
   role_test:
