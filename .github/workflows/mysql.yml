@@ -1,4 +1,4 @@
-name: Molecule Testes on Push
+name: Molecule Tests for Mysql on Push
 
 "on":
   push:
